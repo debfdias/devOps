@@ -1,0 +1,8 @@
+{
+  "apiKey": "AIzaSyDaW1VR8u0HNW0aR3XRTs5zNZdv1vWLGkY",
+  "authDomain": "devops-f2c9f.firebaseapp.com",
+  "projectId": "devops-f2c9f",
+  "databaseURL": "https://devops-f2c9f.firebaseio.com/",
+  "storageBucket": "gs://devops-f2c9f.appspot.com", 
+  "messagingSenderId": "582688028983"
+}
